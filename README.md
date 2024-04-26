@@ -13,7 +13,7 @@
 <br><br>
 
 <h4 align="left"> 
-    # 🛠️ Abrir e rodar o projeto : https://devdouglassouza.github.io/games/
+    # 🛠️ Abrir e rodar o projeto : https://devdouglassouza.github.io/amigo-secreto/
 </h4>
 
 ###Ferramentas e Tecnologias:
